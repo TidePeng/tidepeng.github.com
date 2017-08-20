@@ -1,0 +1,24 @@
+Sitemap: http://tidepeng.top/sitemap.xml
+Sitemap: http://tidepeng.top/baidusitemap.xml
+
+# hexo robots.txt
+
+User-agent: *
+
+Allow: /
+Allow: /archives/ 
+
+Disallow: /js/
+
+Disallow: /css/
+
+Disallow: /fonts/
+
+Disallow: /vendors/
+
+Disallow: /fancybox/
+
+Sitemap: http://tidepeng.top/sitemap.xml
+
+Sitemap: http://tidepeng.top/baidusitemap.xml
+
